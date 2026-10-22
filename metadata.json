@@ -1,0 +1,6 @@
+{
+  "name": "SpatialPulse: Bali Retail & POI Intelligence Platform",
+  "description": "Geospatial retail analytics platform for Bali & Lombok store performance, POI clustering, cannibalization analysis, and predictive site selection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
